@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 应用名称 -->
+    <string name="app_name">Ollama AI Chat</string>
+
+    <!-- 登录页 -->
+    <string name="login_title">欢迎回来</string>
+    <string name="email_hint">电子邮箱</string>
+    <string name="password_hint">密码</string>
+    <string name="login">登录</string>
+    <string name="forgot_password">忘记密码?</string>
+    <string name="register_now">立即注册</string>
+
+    <!-- 注册页 -->
+    <string name="register_title">创建新账户</string>
+    <string name="username_hint">用户名</string>
+    <string name="confirm_password_hint">确认密码</string>
+    <string name="register">注册</string>
+
+    <!-- 聊天页 -->
+    <string name="type_message">输入消息...</string>
+    <string name="send">发送</string>
+    <string name="user_message_sample">你好，请问有什么可以帮助你的?</string>
+    <string name="bot_message_sample">我是Ollama AI助手，很高兴为你服务!</string>
+
+    <!-- 修改密码页 -->
+    <string name="change_password_title">修改密码</string>
+    <string name="old_password_hint">当前密码</string>
+    <string name="new_password_hint">新密码</string>
+    <string name="confirm_new_password_hint">确认新密码</string>
+    <string name="confirm_change_password">确认修改</string>
+    <string name="cancel">取消</string>
+
+    <!-- 错误提示 -->
+    <string name="error_message_sample">发送失败，请检查网络连接</string>
+    <string name="empty_message_error">消息不能为空</string>
+    <string name="password_length_error">密码长度至少8位</string>
+    <string name="password_mismatch_error">两次输入的密码不一致</string>
+    <string name="invalid_email_error">请输入有效的电子邮箱</string>
+    <string name="change_password">修改密码</string>
+    <string name="logout">登出</string>
+</resources>
